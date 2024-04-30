@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-bbox="0.3 6.221 95.34 83.679" viewBox="0 0 96 96" xmlns="http://www.w3.org/2000/svg" data-type="ugc">
+    <g>
+        <linearGradient gradientTransform="matrix(1 0 0 -1 0 97.276)" y2="24.783" x2="-7.774" y1="40.954" x1="20.235" gradientUnits="userSpaceOnUse" id="33cc3647-1394-4f1a-a664-5c53f90b411a">
+            <stop offset=".061" stop-color="#0c266a"/>
+            <stop offset=".19" stop-color="#102e76"/>
+            <stop offset=".463" stop-color="#173a8b"/>
+            <stop offset=".734" stop-color="#1b4197"/>
+            <stop offset="1" stop-color="#1c449b"/>
+        </linearGradient>
+        <path d="M.3 34.8v50.6c0 2.4 2 4.4 4.4 4.4h13.7c2.4 0 4.4-2 4.4-4.4V60.7L1.5 37.5c-.7-.8-1-1.7-1.2-2.7z" fill="url(#33cc3647-1394-4f1a-a664-5c53f90b411a)"/>
+        <path d="m94.5 17.6-9.3-10c-1.6-1.7-4.4-1.9-6.2-.2L39 45.3 18 22.5c-1.6-1.7-4.4-1.9-6.2-.3l-10 9.1c-1 .9-1.5 2.2-1.4 3.5 0 1 .4 2 1.1 2.7 0 0 33.4 36.4 33.7 36.6 1.6 1.5 4.3 1.6 6 0l53.1-50.4c1.7-1.6 1.8-4.3.2-6.1z" fill="#1c449b"/>
+        <path d="M72.3 89.9H58.6c-2.4 0-4.4-2-4.4-4.4V71.8c0-2.4 2-4.4 4.4-4.4h13.7c2.4 0 4.4 2 4.4 4.4v13.7c-.1 2.4-2 4.4-4.4 4.4z" fill="#f37521"/>
+        <path d="M82 64h-6.8C74 64 73 63 73 61.8V55c0-1.2 1-2.2 2.2-2.2H82c1.2 0 2.2 1 2.2 2.2v6.8c0 1.2-1 2.2-2.2 2.2z" fill="#1c449b"/>
+        <path d="M22 84.1c-.1 0-.1.1 0 0-.1.1-.1 0 0 0z" fill="#134a85"/>
+        <path d="M21.8 84.3z" fill="#134a85"/>
+        <path d="m21.9 84.2-.1.1c0-.1.1-.1.1-.1z" fill="#134a85"/>
+    </g>
+</svg>
